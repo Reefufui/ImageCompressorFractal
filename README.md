@@ -12,4 +12,3 @@ Image compressor based on fractal compression alghorithm for my media compressio
 ![alt text](https://github.com/Reefufui/ImageCompressor/blob/master/glitches/aaa.png)
 ![alt text](https://github.com/Reefufui/ImageCompressor/blob/master/glitches/toxic.png)
 ![alt text](https://github.com/Reefufui/ImageCompressor/blob/master/glitches/corrupted_house.png)
-![alt text](https://github.com/Reefufui/ImageCompressor/blob/master/glitches/attempt_2)
